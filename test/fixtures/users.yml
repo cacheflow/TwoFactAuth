@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  otp_secret_key: MyString
+
+two:
+  email: MyString
+  otp_secret_key: MyString
